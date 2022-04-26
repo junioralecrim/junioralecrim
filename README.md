@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu perfil! Aqui compartilho meus estudos diários nas tecnologias que mais me interessam, juntamente com meu portfólio <3
+## Bem vindo(a) ao meu perfil! Aqui compartilho meus estudos nas tecnologias que mais me interessam, minha atividade diária e meu portfólio <3
 
 - 🔭 Estou a procura do meu primeiro estágio (ou Júnior) como Desenvolvedor Web.
 - 🌱 Estudando HTML5, CSS, Javascript, Python e Java.
