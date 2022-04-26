@@ -1,7 +1,7 @@
 ## Olá! Eu sou Junior Alecrim
 
 - 🔭 Estou a procura do meu primeiro estágio (ou Júnior) como Desenvolvedor Web.
-- 🌱 Estudando HTML5, JavaScript
+- 🌱 Estudando HTML5, CSS, Javascript, Python e Java.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
