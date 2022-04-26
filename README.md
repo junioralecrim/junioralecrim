@@ -16,7 +16,7 @@
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Junior-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
-  <img align="right" alt="Junior-gif" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/545784069481431044/968565516027461682/Webp.net-gifmaker.gif"></div>
+  <img align="right" alt="Junior-gif" height="190" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/545784069481431044/968565516027461682/Webp.net-gifmaker.gif"></div>
   
 ##
 
