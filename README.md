@@ -1,8 +1,8 @@
-## Bem vindo(a) ao meu perfil! Aqui compartilho meus estudos nas tecnologias que mais me interessam, minha atividade diária e meu portfólio <3
+## Hi there, welcome to my profile! Here I share my studies in the technologies that interest me the most, my day to day and my portfolio <3
 
-- 🔭 Estou a procura do meu primeiro estágio (ou Júnior) como Desenvolvedor Web.
-- 🌱 Estudando HTML5, CSS, Javascript, Python e Java.
-- 😄 Pronouns: ele/dele
+- 🔭 I'm looking for my first internship as a Web Developer.
+- 🌱 Studying HTML5, CSS, Javascript, Python and Java.
+- 😄 Pronouns: him/his
 
 <div align="center">
   <a href="https://github.com/junioralecrim">
