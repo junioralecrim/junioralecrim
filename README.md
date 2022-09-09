@@ -19,7 +19,7 @@
   <img align="center" alt="Junior-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  
   
   
-  <img align="right" alt="Junio-gif" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/545784069481431044/968565516027461682/Webp.net-gifmaker.gif"></div>
+  <img align="right" alt="Junio-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/545784069481431044/968565516027461682/Webp.net-gifmaker.gif"></div>
   
 ##
 
