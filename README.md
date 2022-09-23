@@ -1,6 +1,5 @@
 ## Hi there, welcome to my profile! Here I share my studies in the technologies that interest me the most, my day to day and my portfolio <3
 
-- 🔭 I'm looking for my first internship as a Web Developer.
 - 🌱 Studying HTML5, CSS, Javascript, Python and Java.
 - 😄 Pronouns: him/his
 
