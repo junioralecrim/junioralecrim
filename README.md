@@ -1,4 +1,6 @@
-## Hi there, welcome to my profile! Here I share my studies in the technologies that interest me the most, my day to day and my portfolio <3
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Junior+Alecrim;I'm+19+years+old;I+from+Brasil,+CE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🌱 Studying HTML5, CSS, Javascript, Python and Java.
 - 😄 Pronouns: him/his
