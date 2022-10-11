@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/junioralecrim">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=junioralecrim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralecrim&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junioralecrim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralecrim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=junioralecrim&theme=tokyo-night&hide_border=true&area=true)
