@@ -50,5 +50,5 @@
 
 
 
-<img align="right" alt="Junio-gif" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/RjpwS3HEFqgdALfARj/giphy.gif?cid=ecf05e4731lk6f9wer0s4cb01b78gvkg411d6bljp9p9qlb1&rid=giphy.gif&ct=s"></div>
+<img align="right" alt="Junio-gif" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/WqxqXYzpFEmUYKfHWe/giphy.gif?cid=ecf05e47u6mtlh4w2vww0razod1rygznhhcbesw8nicienfh&rid=giphy.gif&ct=s"></div>
 
