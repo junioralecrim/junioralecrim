@@ -34,9 +34,6 @@
   
   <a href="https://github.com/junioralecrim/MySQL_studying">
   <img align="center" alt="Junior-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  
-
-
-<img align="right" alt="Junio-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/545784069481431044/968565516027461682/Webp.net-gifmaker.gif"></div>
   
 ##
 
@@ -51,4 +48,7 @@
  ![Snake animation](https://github.com/junioralecrim/junioralecrim/blob/output/github-contribution-grid-snake.svg)
   </div>
 
+
+
+<img align="right" alt="Junio-gif" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/RjpwS3HEFqgdALfARj/giphy.gif?cid=ecf05e4731lk6f9wer0s4cb01b78gvkg411d6bljp9p9qlb1&rid=giphy.gif&ct=s"></div>
 
