@@ -16,24 +16,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6698D9&height=120&section=footer"/>
   
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <a href="https://github.com/junioralecrim/JavaScript_studying">
-  <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Junior-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Junior-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Junior-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <a href="https://github.com/junioralecrim/Python_studying">
-  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Junior-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <a href="https://github.com/junioralecrim/Java_studying">
-  <img align="center" alt="Junior-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Junior-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   
   <a href="https://github.com/junioralecrim/Java_studying/tree/main/Spring%20Boot%20%5BFramework%20Java%5D">
-  <img align="center" alt="Junior-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Junior-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <a href="https://github.com/junioralecrim/Java_studying">
   
   <a href="https://github.com/junioralecrim/MySQL_studying">
-  <img align="center" alt="Junior-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  
+  <img align="center" alt="Junior-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>  
   
 ##
 
@@ -49,6 +49,8 @@
   </div>
 
 
+<img align="right" alt="Junio-gif" height="100" style="border-radius:50px;" src="https://media1.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif?cid=ecf05e47s1x67pvszf44au4g125jae1c7e3nfeqp83yn55cl&rid=giphy.gif&ct=s"></div>
 
-<img align="right" alt="Junio-gif" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/WqxqXYzpFEmUYKfHWe/giphy.gif?cid=ecf05e47u6mtlh4w2vww0razod1rygznhhcbesw8nicienfh&rid=giphy.gif&ct=s"></div>
+
+<img align="right" alt="Junio-gif" height="100" style="border-radius:50px;" src="https://media3.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif?cid=ecf05e47wsdee65t024ypt6lm04m6cjzkgy5534tdvzv1n3i&rid=giphy.gif&ct=s"></div>
 
