@@ -10,10 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralecrim&layout=compact&hide_border=true&&theme=tokyonight"/>
 </div>
 
-  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=junioralecrim&theme=tokyo-night&hide_border=true&area=true)
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6698D9&height=120&section=footer"/>
   
   
