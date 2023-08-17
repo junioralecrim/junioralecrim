@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6698D9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D99F2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Junior+Alecrim;I'm+19+years+old;I+from+Brasil,+CE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6D99F2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Junior+Alecrim;I'm+20+years+old;I+from+Brasil,+CE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -39,11 +39,7 @@
   <a href = "mailto:junioralecrim.16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/junioralecrim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-
-
-
- ![Snake animation](https://github.com/junioralecrim/junioralecrim/blob/output/github-contribution-grid-snake.svg)
-  </div>
+</div>
 
 
 <img align="right" alt="Junio-gif" height="100" style="border-radius:50px;" src="https://media1.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif?cid=ecf05e47s1x67pvszf44au4g125jae1c7e3nfeqp83yn55cl&rid=giphy.gif&ct=s"></div>
